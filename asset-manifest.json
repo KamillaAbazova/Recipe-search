@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Recipe-search/static/css/main.329eb4f8.css",
+    "main.js": "/Recipe-search/static/js/main.c301184f.js",
+    "static/js/787.8018315a.chunk.js": "/Recipe-search/static/js/787.8018315a.chunk.js",
+    "static/media/recipes.mp4": "/Recipe-search/static/media/recipes.baabe7550f99c80eb165.mp4",
+    "index.html": "/Recipe-search/index.html",
+    "main.329eb4f8.css.map": "/Recipe-search/static/css/main.329eb4f8.css.map",
+    "main.c301184f.js.map": "/Recipe-search/static/js/main.c301184f.js.map",
+    "787.8018315a.chunk.js.map": "/Recipe-search/static/js/787.8018315a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.329eb4f8.css",
+    "static/js/main.c301184f.js"
+  ]
+}
