@@ -24,7 +24,7 @@ function App() {
     setMySearch(e.target.value);
   }
   const finalSearch = (e) => {
-    e.prevent.default();
+    e.preventDefault();
     setWordSubmitted(mySearch);
 
   }
